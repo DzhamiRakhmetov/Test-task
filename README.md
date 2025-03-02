@@ -3,5 +3,5 @@
 
 ## Пример выполненного задания:
 
-![скриншот](https://github.com/DzhamiRakhmetov/Test-task/raw/main/screenShot.png)
+![скриншот](https://github.com/DzhamiRakhmetov/Test-task/blob/main/screenShot_photo.png)
 
