@@ -49,7 +49,6 @@ private extension ReviewsViewController {
     func setupViewModel() {
         viewModel.onStateChange = { [weak self] state in
             await self?.reviewsView?.tableView.reloadData()
-//            await self?.reviewsView?.tableView.refreshControl?.endRefreshing()
             
             if state.isLoading {
                 await self?.reviewsView?.loadingIndicator.startAnimating()
