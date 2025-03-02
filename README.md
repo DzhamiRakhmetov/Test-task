@@ -3,4 +3,5 @@
 
 ## Пример выполненного задания:
 
-![скриншот](https://github.com/.../screenShot.png){: width="400px"}
+![скриншот](https://github.com/DzhamiRakhmetov/Test-task/raw/main/screenShot.png)
+
