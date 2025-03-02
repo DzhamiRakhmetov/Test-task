@@ -91,6 +91,12 @@ final class ReviewCell: UITableViewCell {
     
     override func prepareForReuse() {
          super.prepareForReuse()
+        
+        avatarImageView.image = nil
+        nameLabel.text = nil
+        ratingImageView.image = nil
+        reviewTextLabel.attributedText = nil
+        createdLabel.attributedText = nil
      }
 }
 
