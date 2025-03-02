@@ -28,5 +28,4 @@ extension TableCellConfig {
     var reuseId: String {
         Self.reuseId
     }
-
 }

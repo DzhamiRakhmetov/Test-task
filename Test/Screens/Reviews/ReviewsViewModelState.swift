@@ -1,9 +1,9 @@
 /// Модель, хранящая состояние вью модели.
 struct ReviewsViewModelState {
-
     var items = [any TableCellConfig]()
     var limit = 20
     var offset = 0
     var shouldLoad = true
-
+    var isLoading: Bool = false
+    var totalCount: Int = 0
 }
